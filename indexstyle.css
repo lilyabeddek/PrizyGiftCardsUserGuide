@@ -120,7 +120,7 @@ nav {
   display: flex;
   align-items: center;
   text-decoration: none;
-  padding: 0 1rem;
+  padding: 0 ;
   height: 3rem;
   cursor: pointer;
 }
